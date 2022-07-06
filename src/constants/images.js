@@ -41,6 +41,7 @@ import java from '../assets/java.png'
 import email_icon from '../assets/email_icon.png'
 import phone_icon from '../assets/phone_icon.png'
 import green_phone from '../assets/green_phone.png'
+import mongo_db from '../assets/mongo_db.png'
 
 
 export default {
@@ -82,6 +83,7 @@ export default {
   java,
   email_icon,
   phone_icon,
-  green_phone
+  green_phone,
+  mongo_db
 
 };
