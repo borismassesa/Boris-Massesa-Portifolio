@@ -42,6 +42,7 @@ import email_icon from '../assets/email_icon.png'
 import phone_icon from '../assets/phone_icon.png'
 import green_phone from '../assets/green_phone.png'
 import mongo_db from '../assets/mongo_db.png'
+import boris_img from '../assets/boris_img.png'
 
 
 export default {
@@ -84,6 +85,7 @@ export default {
   email_icon,
   phone_icon,
   green_phone,
-  mongo_db
+  mongo_db,
+  boris_img
 
 };
