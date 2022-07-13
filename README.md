@@ -3,6 +3,6 @@
 1. Built a fully responsive personal portfolio website from using React, HTML, SCSS, JavaScript, and Sanity.io.
 2. Integrated sanity to the application to manage text, images and other data using APIs.
 
-![Screenshot 2022-07-12 at 8 51 14 PM](https://user-images.githubusercontent.com/104251801/178652085-351c9139-9e39-42e6-924d-7b1607ed46d2.png)
+![portfolio](https://user-images.githubusercontent.com/104251801/178652879-b4af6eb9-7322-45db-9115-9b5910213c97.png)
 
-![Screenshot 2022-07-12 at 8 51 46 PM](https://user-images.githubusercontent.com/104251801/178652189-0ed9b953-de00-4c6d-b4ec-0978a6552e26.png)
+![portfolio_1](https://user-images.githubusercontent.com/104251801/178652915-e273f9fc-a126-4e08-856f-ee738f76b815.png)
